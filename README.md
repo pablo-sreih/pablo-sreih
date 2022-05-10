@@ -1,6 +1,6 @@
 ### 👋 I'm Pablo
 - I make 🤖 from words.
-- I can make them wear a 🤵‍♂️ and a 👔:
+- I can make them wear a 🤵‍♂️ and a 👔
 - Sometimes I can make them 💃 but sometimes I can break them 💥
 - Basically I turn ☕ into code!
 
