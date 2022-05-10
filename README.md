@@ -1,10 +1,16 @@
-### Hi there 👋
+### 👋 I'm Pablo
+- I make 🤖 from words.
+- I can make them wear a 🤵‍♂️ and a 👔:
+- Sometimes I can make them 💃 but sometimes I can break them 💥
+- Basically I turn ☕ into code!
+
+### P.S. I'm still learning. Who knows what I'm capable of doing next! 😈
 
 <!--
 **pablo-sreih/pablo-sreih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
