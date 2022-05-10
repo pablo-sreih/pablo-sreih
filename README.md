@@ -4,7 +4,7 @@
 - Sometimes I can make them 💃 but sometimes I can break them 💥
 - Basically I turn ☕ into code!
 
-### P.S   I'm still learning. Who knows what I'm capable of doing next! 😈
+### P.S. I'm still learning. Who knows what I'm capable of doing next! 😈
 
 <!--
 **pablo-sreih/pablo-sreih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
